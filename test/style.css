@@ -15,7 +15,10 @@ img{
     height: 150px;
 }
 
-
+/* Hader Title */
+.header-content{
+    display: inline-block;
+}
 
 /* Row Style */
 .row {
@@ -58,6 +61,11 @@ img{
 
 .card-img-top {
     margin: 3px 3px 3px 3px;
+}
+/* Section Content */
+.section-content{
+    display: flex;
+    align-items: center;
 }
 
 
