@@ -12,6 +12,7 @@ $("body").mousemove(function(event){
         $('#vertical-menu').css('visibility','visible');
 
     }
-    console.log(event.pageX);
+    // console.log(event.pageX);
 });
+
 
