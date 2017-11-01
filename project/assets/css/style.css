@@ -137,7 +137,9 @@ section {
   -ms-writing-mode: tb-lr;
   writing-mode: vertical-lr;
   font-size: 24px;
-  position: fixed; }
+  position: absolute;
+  top: 0;
+  left: 0; }
 
 #vertical-menu p {
   -webkit-transform: rotate(180deg);
