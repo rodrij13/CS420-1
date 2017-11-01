@@ -107,6 +107,7 @@ section{
    min-height: 100vh;
    background-color: #AADEE1;
    z-index: -1;
+   position: relative;
   
 
 }
